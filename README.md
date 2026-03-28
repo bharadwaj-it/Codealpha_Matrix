@@ -63,5 +63,3 @@ Transpose of A:
 
 ## Author
 M.Bharadwaj
-
-Rama Chaitanya
